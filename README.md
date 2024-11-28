@@ -12,7 +12,7 @@
 - ✍️ Building Full-Stack websites and apps with the **MERN** stack. 
 
 ## 🔗 My Links  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://your-portfolio-url.com) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faabdi/) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://your-portfolio-url.com) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farahaabdi22@gmail.com)  
 
 ## 🛠️ Tech Stack  
 
