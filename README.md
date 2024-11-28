@@ -1,15 +1,15 @@
-# <div align="center">Hi there! 👋 I'm **Farah Abdi**  </div>
+# <div align="center">Hi there! 👋 I'm **Farah Abdi** </div>
 
 ## 🙋‍♂️ About Me  
 - 🌟 A driven developer with a knack for problem-solving and creating meaningful software.  
-- 💻 I specialize in web development and machine learning, with a growing interest in cloud technologies.  
+- 💻 I specialize in web development and machine learning, with a growing interest in ML technologies.  
 - 📚 Lifelong learner exploring new tech and ideas every day.  
 - 🎯 My goal is to create impactful solutions that solve real-world problems.  
 
 ## 🚀 What I'm Up To  
 - 🌱 Currently enhancing my expertise in **TensorFlow** for deep learning.  
 - 🔭 Working on a **binary classification model** for an exciting new project.  
-- ✍️ Blogging about my learning journey and discoveries in tech.  
+- ✍️ Building Full-Stack websites and apps with the **MERN** stack. 
 
 ## 🔗 My Links  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://your-portfolio-url.com) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
