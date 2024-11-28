@@ -1,4 +1,4 @@
-<div align='center'># Hi there! 👋  I'm **Farah Abdi**  </div>
+#<div align='center'> Hi there! 👋  I'm **Farah Abdi**  </div>
 
 ## 🙋‍♂️ About Me  
 - 🌟 A driven developer with a knack for problem-solving and creating meaningful software.  
@@ -12,10 +12,10 @@
 - ✍️ Blogging about my learning journey and discoveries in tech.  
 
 ## 🔗 My Links  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [🌐 Portfolio](https://your-portfolio-url.com)  
-- [🐦 Twitter](https://twitter.com/your-handle)  
-- [📧 Email](mailto:your-email@example.com)  
+- ![💼 LinkedIn](https://www.linkedin.com/in/your-profile)  
+- ![🌐 Portfolio](https://your-portfolio-url.com)  
+- ![🐦 Twitter](https://twitter.com/your-handle)  
+- ![📧 Email](mailto:your-email@example.com)  
 
 ## 🛠️ Tech Stack  
 
