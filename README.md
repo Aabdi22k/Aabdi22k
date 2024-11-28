@@ -1,9 +1,4 @@
-# Hi there! 👋  
-I'm **Farah Abdi**  
-
-Welcome to my GitHub profile! I'm passionate about technology, innovation, and building projects that make a difference.  
-
----
+# Hi there! 👋  I'm **Farah Abdi**  
 
 ## 🙋‍♂️ About Me  
 - 🌟 A driven developer with a knack for problem-solving and creating meaningful software.  
@@ -11,22 +6,16 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and b
 - 📚 Lifelong learner exploring new tech and ideas every day.  
 - 🎯 My goal is to create impactful solutions that solve real-world problems.  
 
----
-
 ## 🚀 What I'm Up To  
 - 🌱 Currently enhancing my expertise in **TensorFlow** for deep learning.  
 - 🔭 Working on a **binary classification model** for an exciting new project.  
 - ✍️ Blogging about my learning journey and discoveries in tech.  
-
----
 
 ## 🔗 My Links  
 - [💼 LinkedIn](https://www.linkedin.com/in/your-profile)  
 - [🌐 Portfolio](https://your-portfolio-url.com)  
 - [🐦 Twitter](https://twitter.com/your-handle)  
 - [📧 Email](mailto:your-email@example.com)  
-
----
 
 ## 🛠️ Tech Stack  
 
